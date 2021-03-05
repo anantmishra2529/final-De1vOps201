@@ -5,7 +5,7 @@ node {
   }
     
     
- def project_path="/userproject/"
+ def project_path="userproject/"
  
  dir(project_path) {
     
